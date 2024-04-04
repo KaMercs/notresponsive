@@ -1,0 +1,132 @@
+body{
+    margin: 0%;
+    padding: auto;
+    size: 100%;
+    }
+
+.upper{
+    background-color: #d9d9d9;
+    height: 5vh;
+    margin-bottom: 0%;
+
+}
+
+
+nav{
+    padding: 3% 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 25px;
+    margin-top: 1%;
+    margin-bottom: 0%;
+    
+    
+}
+
+button {
+    display: inline-block;
+    list-style: none;
+    margin: 1px 7px;
+    font-family:'Segoe UI';
+    width: 70px;
+    height: 20px;   
+}
+
+ul{
+    margin-right: 35px;
+}
+
+img{
+    height: 10vh;
+    margin-top: 10px;
+    margin-bottom: 0%;
+   
+}
+
+
+button{
+    background-color: rgb(97, 245, 245);
+    border-radius: 12px;
+    border: #fff;
+    height: 25px auto;
+    margin-top: 1px;
+}
+
+button:hover{
+    background-color: rgb(63, 218, 238);
+    
+}
+
+.jay{
+    margin-top: 1px;
+    margin-left: 40px;
+    margin-bottom: 0%;
+    max-width: 25%;
+    height: auto;
+}
+
+b{
+    color: aqua;
+}
+
+h1{
+    margin-left: 450px;
+    margin-top: 1px;
+    font-size: 60px;
+    height: auto;
+    width: auto;
+    margin-top: -440px;
+}
+
+
+
+
+p{
+    margin-left: 457px;
+    font-size: 25px;
+    margin-top: -40px;
+}
+
+#down
+{
+    
+    background-color: #d9d9d9;
+    border-radius: 0%;
+    list-style: none;
+    margin-top: 460px;
+    margin-right: 0%;
+    font-size: 15px;
+    
+
+}
+
+#down:hover{
+    background-color: gray;
+}
+
+.navi{
+    padding: 3% 0;
+
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    margin-left: 5px;
+    margin-top: -1%;
+  
+}
+
+#join{
+    background-color: #d9d9d9;
+    border-radius: 0%;
+    list-style: none;
+    margin-top: 460px;
+    margin-right: 0%;
+    margin-left: 20px;
+    font-size: 15px;
+}
+
+#join:hover{
+    background-color: gray;
+}
+
